@@ -1,10 +1,10 @@
-# Gif Expert App
+# The Dental Web App
 
-Gif Expert App is a app to show gifs.
+The Dental Web App is a app to manage clinical data.
 
 ## Quick Start
 
-You can get started with Gif Expert App in minutes by running the following commands:
+You can get started with The Dental Web App in minutes by running the following commands:
 
 ```bash
 yarn
